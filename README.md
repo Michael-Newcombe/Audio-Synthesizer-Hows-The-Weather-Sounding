@@ -2,14 +2,14 @@
 Hows The Weather Sounding, is an audio synthesizer application that generates sound through algorithmic composition by converting weather data into sound. The application is written in C++ using the framework openFrameworks. 
 
 **Prerequisites:**
-openFrameworks v0.10.1 or above,
+openFrameworks (should work on lastest if not try v0.10.1),
 ofxMaxim, 
 ofxJSON,
 ofxDatGui
 
-**Step 1:** Download openFrameworks and follow the setup guide for your OS and IDE.
+**Step 1:** Download [openFrameworks](https://openframeworks.cc/download/) and follow the setup guide for your OS and IDE.
 
-**Step 2:** Download or clone the additional openFrameworks libraries (ofxMaxim, ofxJSON, ofxDatGui) into the openFrameworks/addons directory. 
+**Step 2:** Download or clone the additional openFrameworks libraries ([ofxMaxim](https://github.com/micknoise/Maximilian), [ofxJSON](https://github.com/jeffcrouse/ofxJSON), [ofxDatGui](https://github.com/braitsch/ofxDatGui)) into the openFrameworks/addons directory. 
 
 **Step 3:** Create a new project using the projectGenerator, located in the directory openFrameworks/projectGenerator. Then using the addons button, add ofxMaxim, ofxJSON, ofxDatGui to the project. 
 
