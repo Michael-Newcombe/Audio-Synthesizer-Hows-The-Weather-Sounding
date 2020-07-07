@@ -5,6 +5,8 @@ Hows The Weather Sounding, is an audio synthesizer application that generates so
 
 **Video link:** https://vimeo.com/436095416
 
+![](preview.gif)
+
 **Prerequisites:**
 openFrameworks (should work on lastest if not try v0.10.1),
 ofxMaxim, 
