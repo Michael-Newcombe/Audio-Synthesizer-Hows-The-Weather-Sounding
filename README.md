@@ -21,10 +21,8 @@ ofxDatGui
 
 **Step 4:** Open the project in your IDE then from inside your IDE delete all the files inside the src directory.
 
-**Step 5:** Download or clone this repo then copy the files inside the src directory of this repo into the src directory of the project using your OS's file manager or terminal.
+**Step 5:** Download or clone this repo then copy the files inside the src directory of this repo into the src directory of the project you created.
 
-**Step 6:** Add the files from the project's src directory into the src directory inside your IDE.
+**Step 6:** Copy the contents inside the data directory of this repo into the bin/data directory of the project.  
 
-**Step 7:** Copy the contents inside the data directory of this repo into the bin/data directory of the project.  
-
-**Step 8:** Compile the project.
+**Step 7:** Compile the project.
