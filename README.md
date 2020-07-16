@@ -40,11 +40,11 @@ ofxDatGui
 
 **Step 2:** Download or clone the additional openFrameworks libraries ([ofxMaxim](https://github.com/micknoise/Maximilian), [ofxJSON](https://github.com/jeffcrouse/ofxJSON), [ofxDatGui](https://github.com/braitsch/ofxDatGui)) into the ```openFrameworks/addons``` directory. 
 
-**Step 3:** Create a new project using the projectGenerator, located in the directory ```openFrameworks/projectGenerator```. Then using the addons button, add ```ofxMaxim```, ```ofxJSON```, ```ofxDatGui``` to the project. 
+**Step 3:** Create a new project using the projectGenerator, located in the directory ```openFrameworks/projectGenerator```. Then using the ```Addons:``` button, add ```ofxMaxim```, ```ofxJSON```, ```ofxDatGui``` to the project. 
 
 **Step 4:** Open the project in your IDE then from inside your IDE delete all the files inside the src directory.
 
-**Step 5:** Download or clone this repo then copy the files inside the src directory of this repo into the src directory of the project you created.
+**Step 5:** Download or clone this repo then copy the files inside the ```src``` directory of this repo into the ```src``` directory of the project you created.
 
 **Step 6:** Copy the contents inside the data directory of this repo into the ```bin/data``` directory of the project.  
 
